@@ -38,4 +38,5 @@ This project explores enhancing low-resolution images using a two-stage neural n
 - **Rohith Reddy Mada:** Implemented SRGAN.
 - **Hanuma Shashank Samudrala:** Developed SRCNN.
 - **Ashish Athimamula:** Implemented image fusion techniques.
-## How to Run
+### For more details refer to the full [project report.](https://github.com/user-attachments/files/18513952/CV_PROJECT_REPORT.1.pdf)
+
