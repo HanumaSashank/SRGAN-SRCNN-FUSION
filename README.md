@@ -29,7 +29,7 @@ This project explores enhancing low-resolution images using a two-stage neural n
   - SSIM (Structural Similarity Index Measure)
 ## Results
 - **Fusion Performance:** IHS Fusion delivered the best results, with superior PSNR, MSE, and SSIM values compared to standalone SRCNN and SRGAN models.
-- **Metrics:** Example scores for fused outputs (e.g., [33.06 PSNR, 96.3976 MSE, 0.9005 SSIM]) indicated a marked improvement over individual model outputs.
+- **Metrics:** Scores for fused outputs (e.g., [33.06 PSNR, 96.3976 MSE, 0.9005 SSIM]) indicated a marked improvement over individual model outputs.
 ## Tecnologies Used
 - **Programming Language:** Python
 - **Deep Learning Frameworks:** PyTorch
